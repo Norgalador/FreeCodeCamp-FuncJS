@@ -127,3 +127,5 @@ const watchList = [
   }
   
   console.log(getRating(watchList));
+
+  // This was a fun assignment to complete!
