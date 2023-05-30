@@ -1,4 +1,4 @@
-// 
+// Directions go here
 
 function splitify(str) {
     // Only change code below this line
